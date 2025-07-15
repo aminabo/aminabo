@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Software Engineer || Full stack developer</h2>
+<h2 align="left">Software Engineer || Front_End developer</h2>
 
 ###
 
